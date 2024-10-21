@@ -188,9 +188,11 @@ h3 {
 
 .input-text{
     width: 100%;
-    border-color: #6495ed;
+    border-color: #DFE9F3;
+    border-width: .1rem;
     padding: 1.5rem;
     border-radius: .5rem;
+    outline: none;
 }
 
 .contenedor-boton{
